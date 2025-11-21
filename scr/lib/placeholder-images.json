@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "avatar1",
+      "description": "User avatar placeholder 1",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIzNzk2MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "avatar2",
+      "description": "User avatar placeholder 2",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc2MjQyMTc3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "avatar3",
+      "description": "User avatar placeholder 3",
+      "imageUrl": "https://images.unsplash.com/photo-1690687505782-b7cc62530e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9maWxlJTIwcGljdHVyZXxlbnwwfHx8fDE3NjIzMzY1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile picture"
+    },
+    {
+      "id": "course-thumb1",
+      "description": "Course thumbnail for CBSE",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/CBSE_new_logo.svg/1014px-CBSE_new_logo.svg.png",
+      "imageHint": "CBSE logo"
+    },
+    {
+      "id": "course-thumb2",
+      "description": "Course thumbnail placeholder for Science",
+      "imageUrl": "https://images.unsplash.com/photo-1581093685913-6a6fcad6ea5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2NpZW5jZSUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzYyMzM5OTYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science technology"
+    },
+    {
+      "id": "course-thumb3",
+      "description": "Course thumbnail for State Board",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Seal_of_Karnataka.svg",
+      "imageHint": "state board logo"
+    },
+    {
+      "id": "course-thumb4",
+      "description": "Course thumbnail for ICSE",
+      "imageUrl": "https://www.pooripadhai.com/assets/image/boards/icse12.png",
+      "imageHint": "ICSE logo"
+    },
+    {
+      "id": "pyq-1",
+      "description": "Previous Year Question paper page 1",
+      "imageUrl": "https://images.unsplash.com/photo-1606326608690-4e0281b1e588?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxleGFtJTIwcGFwZXJ8ZW58MHx8fHwxNzYyNDE0NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "exam paper"
+    },
+    {
+      "id": "pyq-2",
+      "description": "Previous Year Question paper page 2",
+      "imageUrl": "https://images.unsplash.com/photo-1532153955177-f59af40d6472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxleGFtJTIwcGFwZXJ8ZW58MHx8fHwxNzYyNDE0NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "exam paper"
+    },
+    {
+      "id": "pyq-3",
+      "description": "Previous Year Question paper page 3",
+      "imageUrl": "https://images.unsplash.com/photo-1645290851823-205dc9d23ea0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxleGFtJTIwcGFwZXJ8ZW58MHx8fHwxNzYyNDE0NTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "exam paper"
+    },
+    {
+      "id": "pyq-4",
+      "description": "Previous Year Question paper page 4",
+      "imageUrl": "https://cdn1.byjus.com/wp-content/uploads/2019/10/CBSE-Class-10-Maths-Question-Papers-2014-1.jpg",
+      "imageHint": "exam paper"
+    },
+    {
+      "id": "pyq-jee-1",
+      "description": "JEE Main Solved Paper Maths",
+      "imageUrl": "https://mtgpublicwp.mtg.in/wp-content/uploads/2025/05/143-JEE-Main-Solved-Paper-Maths_Page-1.jpg",
+      "imageHint": "exam paper"
+    },
+    {
+      "id": "jee-main-logo",
+      "description": "JEE Main Logo",
+      "imageUrl": "https://static.pw.live/5eb393ee95fab7468a79d189/GLOBAL_CMS_BLOGS/dd619f62-5bee-4bfd-a028-189dd0f98001.jpg",
+      "imageHint": "JEE logo"
+    }
+  ]
+}
